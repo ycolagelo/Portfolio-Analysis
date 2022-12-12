@@ -1,0 +1,18 @@
+A Whale Off Port(folio)
+
+Reading the first five items in the dataframe 
+
+         Date  SOROS FUND MANAGEMENT LLC  PAULSON & CO.INC.   TIGER GLOBAL MANAGEMENT LLC  BERKSHIRE HATHAWAY INC
+0  2015-03-02                        NaN                 NaN                          NaN                     NaN
+1  2015-03-03                  -0.001266           -0.004981                    -0.000496               -0.006569
+2  2015-03-04                   0.002230            0.003241                    -0.002534                0.004213
+3  2015-03-05                   0.004016            0.004076                     0.002355                0.006726
+4  2015-03-06                  -0.007905           -0.003574                    -0.008481               -0.013098
+
+
+Null Counts in the Dataframe
+Date                           1060
+SOROS FUND MANAGEMENT LLC      1060
+PAULSON & CO.INC.              1060
+TIGER GLOBAL MANAGEMENT LLC    1060
+BERKSHIRE HATHAWAY INC         1060
