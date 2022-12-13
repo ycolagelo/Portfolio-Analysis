@@ -58,11 +58,11 @@ First five iteams of the S&P TSX 60 closing prices Dataframs
 
                  Close
 Date                  
-1-Oct-2012  $12,370.19
-2-Oct-2012  $12,391.23
-3-Oct-2012  $12,359.47
-4-Oct-2012  $12,447.68
-5-Oct-2012  $12,418.99
+2012-10-01  $12,370.19
+2012-10-02  $12,391.23
+2012-10-03  $12,359.47
+2012-10-04  $12,447.68
+2012-10-05  $12,418.99
 
 Reading data types of the S&P TSX 60 
 
