@@ -1,0 +1,70 @@
+A Whale Off Port(folio)
+
+Reading the first five items in the dataframe 
+
+            SOROS FUND MANAGEMENT LLC  PAULSON & CO.INC.   TIGER GLOBAL MANAGEMENT LLC  BERKSHIRE HATHAWAY INC
+Date                                                                                                          
+2015-03-02                        NaN                 NaN                          NaN                     NaN
+2015-03-03                  -0.001266           -0.004981                    -0.000496               -0.006569
+2015-03-04                   0.002230            0.003241                    -0.002534                0.004213
+2015-03-05                   0.004016            0.004076                     0.002355                0.006726
+2015-03-06                  -0.007905           -0.003574                    -0.008481               -0.013098
+
+Null Counts in the Dataframe
+
+SOROS FUND MANAGEMENT LLC      1060
+PAULSON & CO.INC.              1060
+TIGER GLOBAL MANAGEMENT LLC    1060
+BERKSHIRE HATHAWAY INC         1060
+
+
+
+Dropping Nulls in the Dataframe
+
+            SOROS FUND MANAGEMENT LLC  PAULSON & CO.INC.   TIGER GLOBAL MANAGEMENT LLC  BERKSHIRE HATHAWAY INC
+Date                                                                                                          
+2015-03-03                  -0.001266           -0.004981                    -0.000496               -0.006569
+2015-03-04                   0.002230            0.003241                    -0.002534                0.004213
+2015-03-05                   0.004016            0.004076                     0.002355                0.006726
+2015-03-06                  -0.007905           -0.003574                    -0.008481               -0.013098
+2015-03-09                   0.000582            0.004225                     0.005843               -0.001652
+
+Reading first five iteams in the Algorithmic Daily Returns Dataframe 
+
+              Algo 1  Algo 2
+Date                        
+2014-05-28  0.001745     NaN
+2014-05-29  0.003978     NaN
+2014-05-30  0.004464     NaN
+2014-06-02  0.005692     NaN
+2014-06-03  0.005292     NaN
+
+Counting the Nulls in the Algorithmic Dataframe
+
+Algo 1    1241
+Algo 2    1241
+
+Dropping the Null values in the Algorithmic Dataframe
+
+              Algo 1    Algo 2
+Date                          
+2014-06-05  0.004062  0.013285
+2014-06-06  0.001857  0.008284
+2014-06-09 -0.005012  0.005668
+2014-06-10  0.004406 -0.000735
+2014-06-11  0.004760 -0.003761
+
+First five iteams of the S&P TSX 60 closing prices Dataframs
+
+                 Close
+Date                  
+2012-10-01  $12,370.19
+2012-10-02  $12,391.23
+2012-10-03  $12,359.47
+2012-10-04  $12,447.68
+2012-10-05  $12,418.99
+
+Reading data types of the S&P TSX 60 
+
+Close    object
+
